@@ -1,9 +1,8 @@
-h1{
+header{
     color: lightgreen;
     background-color: darkgreen;
     text-align: center;
-    font-size: 2.5em;
-    line-height: 2em;
+    font: bold 2.5em/2em Georgia, 'Times New Roman', serif;
 }
 
 h3{
@@ -13,11 +12,19 @@ h3{
 
 ul{
     font-style: italic;
+    
 }
 
 body {
     background-color: rgb(194, 245, 194);
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: .875em
-    ;
+    font-size: .875em;
+}
+
+.gameNames {
+    color: dodgerblue;
+}
+
+#gameSection {
+    font-weight: bold;
 }
