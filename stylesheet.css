@@ -2,7 +2,7 @@ header{
     color: lightgreen;
     background-color: darkgreen;
     text-align: center;
-    font: bold 2.5em/2em Georgia, 'Times New Roman', serif;
+    font: bold 2.45em/2em Georgia, 'Times New Roman', serif;
 }
 
 h3{
@@ -10,9 +10,12 @@ h3{
     font-size: 1.2em;
 }
 
+h4{
+    font-size: 0.85em;
+}
+
 ul{
     font-style: italic;
-    
 }
 
 body {
